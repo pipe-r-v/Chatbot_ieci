@@ -2,7 +2,7 @@
 Pasos para ejecutar el código en Google Colab
 # Clonar el repositorio de GitHub:
 
-# Abre Google Colab y crea un nuevo notebook. En la primera celda, ejecuta el siguiente comando para clonar el repositorio de GitHub en el entorno de Colab:
+Abre Google Colab y crea un nuevo notebook. En la primera celda, ejecuta el siguiente comando para clonar el repositorio de GitHub en el entorno de Colab:
 
 !git clone https://github.com/pipe-r-v/Chatbot_ieci
 
