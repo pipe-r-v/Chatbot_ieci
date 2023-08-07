@@ -8,7 +8,7 @@ Abre Google Colab y crea un nuevo notebook. En la primera celda, ejecuta el sigu
 
 # Acceder al directorio del repositorio:
 
-# Luego de clonar el repositorio, cambia al directorio donde se encuentra el código ejecutando el siguiente comando:
+Luego de clonar el repositorio, cambia al directorio donde se encuentra el código ejecutando el siguiente comando:
 
 %cd Chatbot_ieci
 
